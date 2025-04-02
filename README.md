@@ -48,7 +48,7 @@ Follow these steps to set up the project locally:
 
 ### Stock Price Trends Over Time
 ![Stock Price Trends](https://via.placeholder.com/800x400?text=me vs Closing Price
-![Volume vs Closing Price](https://via.placeholder.com/800x400?text=Insert+‍💻 Usage
+![Volume vs Open Price](https://via.placeholder.com/800x400?text=Insert+‍💻 Usage
 
 1. Prepare your dataset in CSV format.
 2. Run the Jupyter notebook:
